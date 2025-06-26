@@ -10,6 +10,10 @@
 ### In Simple words
 -> A function inside a function — that keeps access to its parent's variables.
 
+---
+
+## Example 👇🏻
+
 ```js 
 
 function outer() {

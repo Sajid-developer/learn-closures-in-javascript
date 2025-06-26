@@ -1,2 +1,2 @@
-# Learn closures in javascript
+# Learn Closure in javascript
 🌟 All about closure concept in JavaScript.
